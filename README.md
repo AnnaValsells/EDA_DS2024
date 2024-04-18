@@ -16,11 +16,10 @@ Factores externos:
 
 - El suelo de la pista influye directamente en el número de eliminados.
 
----
 
-> 2.753 participantes  
->> 620 competiciones
->>> 32.771 pistas
+> 32.771 pistas  
+>> 2.753 participantes 
+>>> 620 competiciones
 
 Datos extraídos mediante webscrapping de **[FlowAgility](https://flowagility.com)**.
 
