@@ -4,7 +4,7 @@
 
 Todos los perros pueden hacer agility, pero no todos pueden a nivel competitivo. Al perro que compite se le atribuyen características semejantes a las de un atleta. El resultado de estos deportistas de alto rendimiento se puede ver influenciado por circunstancias tanto internas como externas.
 
-Con el estudio de todas las competiciones de Agility de los años 2022 y 2023, realizadas por la Real Sociedad Canina de España, buscamos confirmar algunas de las sensaciones que tenemos los competidores al acudir a dichos eventos:
+Con el estudio de todas las competiciones de Agility de los años 2022 y 2023, realizadas por la Real Sociedad Canina de España, busco confirmar algunas de las sensaciones que abundan entre los deportistas humanos:
 
 Factores internos:
 
