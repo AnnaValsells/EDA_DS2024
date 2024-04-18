@@ -21,5 +21,5 @@ Factores externos:
 >> 2.753 participantes 
 >>> 620 competiciones
 
-Datos extraídos mediante webscrapping de **[FlowAgility](https://flowagility.com)**.
+Datos extraídos mediante webscraping de **[FlowAgility](https://flowagility.com)**.
 
